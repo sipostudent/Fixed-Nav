@@ -1,6 +1,6 @@
 <h1 align = "center">
 <br>
-  <img src = "assets/images/css.png" width = "600">
+  <img src = "assets/images/fixed-elements.png" width = "600">
   <br>
     <br>
   Sticky Bar: Fixed Elements
