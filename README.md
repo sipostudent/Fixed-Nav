@@ -1,17 +1,17 @@
 <h1 align = "center">
 <br>
-  <img src = "assets/images/scroll-effect.png" width = "600">
+  <img src = "assets/images/css.png" width = "600">
   <br>
     <br>
-  Fixed Nav: CSS Scroll Effects
+  Sticky Bar: Fixed Elements
   <br>
 </ H1>
 
 <h3 align = "center"> User Centric Development </h3>
 
-## Scroll Effect
+## Sticky Bar
 
-Fixed nav css scroll effects
+Fixed element css effects
 
 ## Project Specifications
 
